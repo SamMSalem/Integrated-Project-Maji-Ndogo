@@ -16,10 +16,12 @@ The Project was divided into three separate parts "Projects", each with a specif
 # The Questions: 
   Below are the questions I want to answer in my project:
 
+      * How many visits from employees to the sites of water sources?
       * Where are most of the water sources in Naji Ndogo? And what is the most dominant water source?
       * What is the percentage of people using taps for water?
       * What is the percentage of people having water infrastructure?
-      * How long is the waiting time for each citizen to get water from shared taps, and what is the busiest time?
+      * How long is the queue time for each citizen to get water from shared taps, and what is the busiest time of the day?
+      * What are the names of the two worst-performing employees who visited the fewest sites, and how many sites did the worst-performing employee visit?
       * Who are the main victims of the crime during the waiting time?
       * What are the highest assaults that victims face?
       * In Amanzi, Women face significantly less risk of being crime victims. Why is this the case in Amanzi?
