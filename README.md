@@ -14,7 +14,7 @@ The Project was divided into three separate parts "Projects", each with a specif
 
 
 # The Questions: 
-  Below are the questions I want to answer in my project:
+  Below are the questions I want to answer in my project (NB: Inside the SQL codes, there are more questions documented. Those were presented during the exam of the course):
 
       * How many visits from employees to the sites of water sources?
       * Where are most of the water sources in Naji Ndogo? And what is the most dominant water source?
