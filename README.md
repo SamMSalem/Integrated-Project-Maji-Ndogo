@@ -46,3 +46,19 @@ The Project was divided into three separate parts "Projects", each with a specif
        - A tree map of the total number of people per source type.
        - Column chart showing the total number of each source of water type, for every town.
        - Column chart that counts the different sources by type.
+      
+       Public questions:
+       - How the project is going. Very simply: Which sources have been completed?
+       - How much money has been spent so far?
+       - Where was the money spent?
+       - What the money was spent on?
+       - Details about everything in every town.
+       
+       Decision makers questions:
+       - How far is the project?
+       - How much money has been spent so far?
+       - Where was the money spent?
+       - What the money was spent on?
+       - Will we have enough money to complete the project?
+       - Where can we cut costs?
+       - I want to see data at the national, provincial and town level.
