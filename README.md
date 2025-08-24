@@ -4,15 +4,18 @@ In this project, data analysis was carried out to get insights into how to solve
 
 This project was one of the mandatory requirements for success in the Data Analysis scholarship course at the African Leadership Academy (ALX).
 
-The Project was divided into three separate parts "Projects", each with a specific objective and goal. The first part was carried out through Microsoft Excel, and the second part was carried out using MySQL Workbench. While the third part was carried out using Microsoft PowerBi.
+The Project was divided into three separate parts, each with a specific objective and goal. The first part was carried out through Microsoft Excel, and the second part was carried out using MySQL Workbench. While the third part was carried out using Microsoft PowerBi.
+
+The data was sourced from the Course providers (ALX), which provides the foundation for my analysis, containing detailed information on site visits, water sources, locations, provinces, survey results, contaminated sources, and employees' information. Through a series of SQL scripts, I explore key questions such as the water sources, the percentage of citizens using shared taps, crime rates, and costs for the project to be completed.
+
 
 ##   Tools I Used: 
        
-1- **Microsoft Excel**: First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel.
+1- **Microsoft Excel**: First part of the project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel.
 
-2- **MySQL WorkBench** The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench.
+2- **MySQL WorkBench** The second part of the project was to upload, clean up, manipulate, and alter the provided database using MySQL Workbench.
 
-3- **Powerbi** The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft Powerbi.
+3- **Powerbi** The third part of the project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft Powerbi.
 
 
 ##  The Questions: 
