@@ -27,15 +27,13 @@ The data was sourced from the Course providers (ALX), which provides the foundat
       * What is the percentage of people with water infrastructure? 
       * How long is the queue time for each citizen to get water from shared taps, and what is the busiest time of the day?
       * What are the names of the two worst-performing employees who visited the fewest sites, and how many sites did the worst-performing employee visit?
-check this notebook for the ansswers for the above questions: [Integrated Project Maji Ndogo Part 2](https://github.com/SamMSalem/Integrated-Project-Maji-Ndogo/blob/main/Integrated%20Project%20Maji%20Ndogo%20Part%202.ipynb)
-             * Who are the main victims of the crime during the waiting time?
-             * What are the highest assaults that victims face?
-check this notebook for the ansswers for the above questions: [Integrated Project Maji Ndogo Part 3]
-             * In Amanzi, Women face significantly less risk of being crime victims. Why is this the case in Amanzi?
-             * Can you investigate the mistakes in the site visits record and determine if the mistake was made on purpose or not? If it was made on purpose, will you figure out who the employee is who made this mistake?
-             * Which towns should we upgrade shared taps first?
-             * How many UV filters do we have to install in total?
-check this notebook for the ansswers for the above questions: [Integrated Project Maji Ndogo Part 4]
+      * Who are the main victims of the crime during the waiting time?
+      * What are the highest assaults that victims face? 
+      * In Amanzi, Women face significantly less risk of being crime victims. Why is this the case in Amanzi?
+      * Can you investigate the mistakes in the site visits record and determine if the mistake was made on purpose or not? If it was made on purpose, will you figure out who the employee is who made this mistake?
+      * Which towns should we upgrade shared taps first?
+      * How many UV filters do we have to install in total?
+     
 
 
 ##  Visualization Requirements:
