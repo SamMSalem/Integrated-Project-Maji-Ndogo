@@ -8,9 +8,9 @@ The Project was divided into three separate parts "Projects", each with a specif
 
 ##   Methodology and tools used: 
        
-**1**- First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel. 
-       **2**- The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench. 
-       **3**- The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft PowerBi.
+"**1**- First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel./n" 
+       "**2**- The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench./n" 
+       "**3**- The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft PowerBi./n"
 
 
 ##  The Questions: 
