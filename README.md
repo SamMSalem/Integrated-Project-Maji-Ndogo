@@ -6,13 +6,13 @@ This project was one of the mandatory requirements for success in the Data Analy
 
 The Project was divided into three separate parts "Projects", each with a specific objective and goal. The first part was carried out through Microsoft Excel, and the second part was carried out using MySQL Workbench. While the third part was carried out using Microsoft PowerBi.
 
-##   Methodology and tools used: 
+##   Tools I Used: 
        
-**1**- First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel.
+1- **Microsoft Excel**: First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel.
 
-**2**- The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench.
+2- **MySQL WorkBench** The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench.
 
-**3**- The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft PowerBi.
+3- **Powerbi** The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft Powerbi.
 
 
 ##  The Questions: 
@@ -27,13 +27,15 @@ The Project was divided into three separate parts "Projects", each with a specif
 check this notebook for the ansswers for the above questions: [Integrated Project Maji Ndogo Part 2](https://github.com/SamMSalem/Integrated-Project-Maji-Ndogo/blob/main/Integrated%20Project%20Maji%20Ndogo%20Part%202.ipynb)
       * Who are the main victims of the crime during the waiting time?
       * What are the highest assaults that victims face?
+check this notebook for the ansswers for the above questions: [Integrated Project Maji Ndogo Part 3]
       * In Amanzi, Women face significantly less risk of being crime victims. Why is this the case in Amanzi?
       * Can you investigate the mistakes in the site visits record and determine if the mistake was made on purpose or not? If it was made on purpose, will you figure out who the employee is who made this mistake?
       * Which towns should we upgrade shared taps first?
       * How many UV filters do we have to install in total?
+check this notebook for the ansswers for the above questions: [Integrated Project Maji Ndogo Part 4]
 
 
-#  Visualization Requirements:
+##  Visualization Requirements:
 
        - Create a pie chart to illustrate the total Urban and Rural population split in Maji Ndogo. Use SUM(number_of_people_served), split by location_type
        - Create a bar (column) chart showing the total population using the various water sources. Use SUM(number_of_people_served), split by type_of_water_source
