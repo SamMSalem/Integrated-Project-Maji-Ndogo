@@ -19,7 +19,7 @@ The Project was divided into three separate parts "Projects", each with a specif
       * How many visits from employees to the sites of water sources? 
       * Where are most of the water sources in Naji Ndogo? And what is the most dominant water source?
       * What is the percentage of people using taps for water?
-      * What is the percentage of people with water infrastructure? Check the notebook for the answers: Integrated Project Maji Ndogo Part2(https://github.com/SamMSalem/Integrated-Project-Maji-Ndogo/blob/main/Integrated%20Project%20Maji%20Ndogo%20Part%202.ipynb)
+      * What is the percentage of people with water infrastructure? 
       * How long is the queue time for each citizen to get water from shared taps, and what is the busiest time of the day?
       * What are the names of the two worst-performing employees who visited the fewest sites, and how many sites did the worst-performing employee visit?
       * Who are the main victims of the crime during the waiting time?
