@@ -13,9 +13,9 @@ The data was sourced from the Course providers (ALX), which provides the foundat
        
 1- **Microsoft Excel**: First part of the project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel.
 
-2- **MySQL WorkBench** The second part of the project was to upload, clean up, manipulate, and alter the provided database using MySQL Workbench.
+2- **MySQL WorkBench**: The second part of the project was to upload, clean up, manipulate, and alter the provided database using MySQL Workbench.
 
-3- **Powerbi** The third part of the project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft Powerbi.
+3- **Powerbi**: The third part of the project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft Powerbi.
 
 
 ##  The Questions: 
