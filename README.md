@@ -6,14 +6,14 @@ This project was one of the mandatory requirements for success in the Data Analy
 
 The Project was divided into three separate parts "Projects", each with a specific objective and goal. The first part was carried out through Microsoft Excel, and the second part was carried out using MySQL Workbench. While the third part was carried out using Microsoft PowerBi.
 
-#      Methodology and tools used: 
+##   Methodology and tools used: 
        
-     1- First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel. 
-     2- The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench. 
-     3- The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft PowerBi.
+     **1**- First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel. 
+     **2**- The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench. 
+     **3**- The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could alleviate the country's crisis using Microsoft PowerBi.
 
 
-# The Questions: 
+##  The Questions: 
   Below are the questions I want to answer in my project (NB: Inside the SQL codes, there are more questions documented. Those were presented during the exam of the course):
 
       * How many visits from employees to the sites of water sources? 
@@ -22,6 +22,7 @@ The Project was divided into three separate parts "Projects", each with a specif
       * What is the percentage of people with water infrastructure? 
       * How long is the queue time for each citizen to get water from shared taps, and what is the busiest time of the day?
       * What are the names of the two worst-performing employees who visited the fewest sites, and how many sites did the worst-performing employee visit?
+      check this notebook for the ansswers for the above questions: [Integrated Project Maji Ndogo Part 2](https://github.com/SamMSalem/Integrated-Project-Maji-Ndogo/blob/main/Integrated%20Project%20Maji%20Ndogo%20Part%202.ipynb)
       * Who are the main victims of the crime during the waiting time?
       * What are the highest assaults that victims face?
       * In Amanzi, Women face significantly less risk of being crime victims. Why is this the case in Amanzi?
