@@ -8,6 +8,6 @@ The Project was divided into three separate parts "Projects", each with a specif
 
       Methodology: 
        
-     1- First project was to conduct data cleanup, sorting, filtering, and perform equations on Excel 
-     2- The second project was to upload, cleanup, manipulate, and alter the provided database on MySQL Workbench 
-     3- The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could elevate the country's crisis   
+     1- First project was to conduct data cleanup, sorting, filtering, and perform equations using Microsoft Excel. 
+     2- The second project was to upload, cleanup, manipulate, and alter the provided database using MySQL Workbench. 
+     3- The third project was to provide a data visualization dashboard for the above data to get meaningful insights that could elevate the country's crisis using Microsoft PowerBi/   
