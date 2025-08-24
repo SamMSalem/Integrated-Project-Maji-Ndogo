@@ -25,5 +25,6 @@ The Project was divided into three separate parts "Projects", each with a specif
       * Who are the main victims of the crime during the waiting time?
       * What are the highest assaults that victims face?
       * In Amanzi, Women face significantly less risk of being crime victims. Why is this the case in Amanzi?
+      * Can you investigate the mistakes in the site visits record and determine if the mistake was made on purpose or not? If it was made on purpose, will you figure out who the employee is who made this mistake?
       * 
       
